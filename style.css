@@ -1,0 +1,16 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-image: url("桜島.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.maps{
+    width: 10%;
+}
